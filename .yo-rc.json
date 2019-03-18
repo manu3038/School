@@ -1,0 +1,35 @@
+{
+    "generator-jhipster": {
+        "promptValues": {
+            "packageName": "com.myapp.school"
+        },
+        "jhipsterVersion": "5.8.2",
+        "applicationType": "monolith",
+        "baseName": "school",
+        "packageName": "com.myapp.school",
+        "packageFolder": "com/myapp/school",
+        "serverPort": "8080",
+        "authenticationType": "session",
+        "cacheProvider": "ehcache",
+        "enableHibernateCache": false,
+        "websocket": false,
+        "databaseType": "sql",
+        "devDatabaseType": "mysql",
+        "prodDatabaseType": "mysql",
+        "searchEngine": "elasticsearch",
+        "messageBroker": false,
+        "serviceDiscoveryType": false,
+        "buildTool": "maven",
+        "enableSwaggerCodegen": true,
+        "rememberMeKey": "b2b87e1a125861b1e255c2c9daa391cddc1d2366e0d49a57c54172645a9c02aa86b3a0fd6fdccc216e3361f136946a258c8c",
+        "clientFramework": "angularX",
+        "useSass": false,
+        "clientPackageManager": "npm",
+        "testFrameworks": ["gatling"],
+        "jhiPrefix": "jhi",
+        "entitySuffix": "",
+        "dtoSuffix": "DTO",
+        "otherModules": [],
+        "enableTranslation": false
+    }
+}
